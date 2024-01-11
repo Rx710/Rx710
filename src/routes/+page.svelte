@@ -1,1 +1,5 @@
-<h1>Heute</h1>
+<script>
+	import Main from '../components/Main.svelte';
+</script>
+
+<Main />
